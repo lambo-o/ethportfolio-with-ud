@@ -4,7 +4,15 @@ View your Ethereum tokens portfolio & track its performance over time.
 
 This can be done by logging with Unstoppable Domains or by entering the address manually.
 
+## Demo of the project
 
+The result of **"Login with Unstoppable"** integration [bounty]
+
+https://www.youtube.com/watch?v=0BS0jjW_Ct4
+
+## Also, the link to live demo (Netlify)
+
+link - https://ethportfolio.netlify.app
 
 
 ## Tech stack
